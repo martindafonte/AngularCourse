@@ -9,7 +9,7 @@ import { TasksComponent } from './tasks.component'
 })
 export class AppComponent implements OnInit {
   constructor() { }
-
+  // tasks = ["Primera tarea", "Segunda tarea"];
   ngOnInit() { }
   title = 'app';
 }
